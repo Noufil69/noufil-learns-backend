@@ -1,0 +1,10 @@
+const cars=['honda', 'toyota', 'mercedes', 'porsche', 'ferrari'];
+console.log(cars[0]);
+console.log(cars[3]);
+console.log("Total cars are:"+ cars.length);
+cars.push("bmw");
+console.log(cars);
+cars.pop();
+console.log(cars);
+console.log(cars.includes("mercedes"));
+console.log(cars.includes("aston martin"));
