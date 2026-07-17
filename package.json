@@ -1,0 +1,23 @@
+{
+  "name": "noufil-learns-backend",
+  "version": "1.0.0",
+  "description": "My backend learning journey",
+  "main": "01-variables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noufil69/noufil-learns-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noufil69/noufil-learns-backend/issues"
+  },
+  "homepage": "https://github.com/Noufil69/noufil-learns-backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
